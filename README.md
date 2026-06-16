@@ -1,12 +1,12 @@
 # Data Science Salaries Analysis
 
-## Overview
+## 📊 Project Overview
 
 This project explores salary trends in the Data Science industry using Python and Jupyter Notebook.
 
 The analysis focuses on factors such as experience level, company size, remote work ratio, employment type, and geographical distribution.
 
-## Technologies Used
+## 🛠 Technologies Used
 
 * Python
 * Pandas
@@ -14,7 +14,7 @@ The analysis focuses on factors such as experience level, company size, remote w
 * Matplotlib
 * Jupyter Notebook
 
-## Analysis Performed
+## 📈 Key Analyses
 
 * Salary Distribution Analysis
 * Salary by Experience Level
@@ -25,7 +25,7 @@ The analysis focuses on factors such as experience level, company size, remote w
 * Top Employee Countries Analysis
 * Salary Trend by Year
 
-## Project Structure
+## 📂Project Structure
 
 * DS_Salaries_Analysis.ipynb
 * ds_salaries.csv
@@ -36,7 +36,7 @@ The analysis focuses on factors such as experience level, company size, remote w
 
 Niraj Patel
 
-## Visualizations
+## 📷 Visualizations
 
 ### Salary Distribution
 ![Salary Distribution](images/salary_distribution.png)

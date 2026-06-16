@@ -35,3 +35,20 @@ The analysis focuses on factors such as experience level, company size, remote w
 ## Author
 
 Niraj Patel
+
+## Visualizations
+
+### Salary Distribution
+![Salary Distribution](images/salary_distribution.png)
+
+### Salary by Experience Level
+![Salary by Experience](images/salary_by_experience.png)
+
+### Salary by Company Size
+![Salary by Company Size](images/salary_by_company_size.png)
+
+### Top Job Titles
+![Top Job Titles](images/top_job_titles.png)
+
+### Salary Trend by Year
+![Salary Trend](images/salary_trend_by_year.png)

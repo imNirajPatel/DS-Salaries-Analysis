@@ -25,7 +25,7 @@ The analysis focuses on factors such as experience level, company size, remote w
 * Top Employee Countries Analysis
 * Salary Trend by Year
 
-## 📂Project Structure
+## Project Structure
 
 * DS_Salaries_Analysis.ipynb
 * ds_salaries.csv

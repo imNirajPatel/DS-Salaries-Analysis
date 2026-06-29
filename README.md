@@ -20,6 +20,7 @@ The analysis focuses on factors such as experience level, company size, remote w
 * Salary by Experience Level
 * Salary by Company Size
 * Salary by Remote Work Ratio
+* Top Job Titles Analysis
 * Employment Type Distribution
 * Top Employee Countries Analysis
 * Salary Trend by Year

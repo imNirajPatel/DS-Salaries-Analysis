@@ -6,7 +6,7 @@ This project explores salary trends in the Data Science industry using Python an
 
 The analysis focuses on factors such as experience level, company size, remote work ratio, employment type, and geographical distribution.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
